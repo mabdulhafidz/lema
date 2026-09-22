@@ -1,13 +1,18 @@
 import Link from 'next/link';
 import { getNotes } from '@/lib/notes';
+import {getTranslations} from 'next-intl/server';
 
 export default async function Home() {
   const notes = await getNotes();
+  const t = await getTranslations('HomePage');
 
   return (
     <main className="min-h-screen bg-white p-6 font-mono text-sm text-black md:p-24 dark:bg-black dark:text-white">
       <div className="mx-auto w-full max-w-5xl">
-        <h1 className="text-3xl font-bold sm:text-2xl">Blog M Abdul Hafidz</h1>
+        <h1 className="text-3xl font-bold sm:text-2xl">{t('title')}</h1>
+        {/* <p className="mt-2 text-gray-600 dark:text-gray-400">
+          {t('description')}
+        </p> */}
 
         <ul className="mt-10 flex flex-col gap-8">
           {notes.map((note) => (
