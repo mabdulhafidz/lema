@@ -1,9 +1,10 @@
 import Link from 'next/link';
 import { getNotes } from '@/lib/notes';
-import {getTranslations} from 'next-intl/server';
+import {getLocale, getTranslations} from 'next-intl/server';
 
 export default async function Home() {
-  const notes = await getNotes();
+  const locale = await getLocale();
+  const notes = await getNotes(locale);
   const t = await getTranslations('HomePage');
 
   return (

@@ -1,6 +1,8 @@
 {
   "HomePage": {
-    "title": "Blog M Abdul Hafidz",
-    "description": "One"
+    "title": "Class Notes"
+  },
+  "PostPage": {
+    "backToAll": "← All notes"
   }
 }

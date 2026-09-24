@@ -4,16 +4,28 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import Markdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import { getLocale, getTranslations } from 'next-intl/server';
 
 const notesDir = path.join(process.cwd(), 'notes');
 
-export const dynamicParams = false; 
+export const dynamicParams = false;
 
 export async function generateStaticParams() {
-  const files = await fs.readdir(notesDir);
+  const files = await fs.readdir(path.join(notesDir, 'id'));
   return files
     .filter((f) => f.endsWith('.md'))
     .map((f) => ({ slugs: f.replace(/\.md$/, '') }));
+}
+
+async function readNote(locale: string, slug: string) {
+  for (const l of [locale, 'id']) {
+    try {
+      return await fs.readFile(path.join(notesDir, l, `${slug}.md`), 'utf8');
+    } catch {
+      
+    }
+  }
+  return null;
 }
 
 export default async function Post({
@@ -22,13 +34,11 @@ export default async function Post({
   params: Promise<{ slugs: string }>;
 }) {
   const { slugs } = await params;
+  const locale = await getLocale();
+  const t = await getTranslations('PostPage');
 
-  let raw: string;
-  try {
-    raw = await fs.readFile(path.join(notesDir, `${slugs}.md`), 'utf8');
-  } catch {
-    notFound();
-  }
+  const raw = await readNote(locale, slugs);
+  if (!raw) notFound();
 
   const md = raw
     .replace(/^---\r?\n[\s\S]*?\r?\n---\s*/, '')
@@ -41,7 +51,7 @@ export default async function Post({
           href="/"
           className="text-sm font-semibold text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
         >
-          ← Semua catatan
+          {t('backToAll')}
         </Link>
 
         <article
