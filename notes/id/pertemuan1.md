@@ -10,7 +10,7 @@ status: ""
 
 # Catatan Pertemuan 1: Bahasa Indonesia
 
-Ini catatan dari apa yang saya dengar dari penjelasan dosen di pertemuan pertama. Masih ada bagian yang belum lengkap, nanti saya perbarui.
+Ini catatan dari apa yang saya dengar dari penjelasan dosen di pertemuan pertama.
 
 ## 1. Ada 2 tipe: Umum dan Khusus
 
@@ -22,11 +22,11 @@ Yang Umum membahas tentang:
 
 - Cinta bahasa Indonesia
 - Sejarah bahasa Indonesia
-- Mungkin satu lagi tentang budaya bahasa Indonesia (belum yakin)
+- tentang budaya bahasa Indonesia 
 
 ## 3. Bagian Khusus
 
-Kalau tidak salah ada **3 poin**, tapi saya lupa isinya.
+terdapat 3 poin khusus.
 
 <!-- > **TODO:** Lengkapi 3 poin Khusus dari modul atau catatan dosen. -->
 

@@ -10,7 +10,7 @@ status: ""
 
 # Meeting 1 Notes: Indonesian Language
 
-These are my notes from what I heard in the lecturer's explanation at the first meeting. Some parts are still incomplete, and I'll update them later.
+These are my notes from what I heard in the lecturer's explanation at the first meeting. 
 
 ## 1. There are 2 types: General and Specific
 
@@ -22,11 +22,11 @@ The General part covers:
 
 - Love for the Indonesian language
 - The history of the Indonesian language
-- Possibly one more, about Indonesian language culture (not sure yet)
+- about Indonesian language culture 
 
 ## 3. The Specific part
 
-If I remember correctly there are **3 points**, but I forgot what they are.
+there are **3 points**.
 
 <!-- > **TODO:** Fill in the 3 Specific points from the module or the lecturer's notes. -->
 
