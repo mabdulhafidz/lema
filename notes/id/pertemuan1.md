@@ -2,7 +2,7 @@
 title: "Catatan Pertemuan 1: Bahasa Indonesia"
 description: "Catatan pertemuan pertama mata kuliah Bahasa Indonesia: tipe Umum dan Khusus, sejarah, dan berbahasa yang baik."
 date: "2026-09-21"
-author: "Hafidz"
+author: "M Abdul Hafidz"
 series: "Bahasa Indonesia"
 tags: ["bahasa-indonesia", "catatan-kuliah", "pertemuan-1"]
 status: ""
@@ -32,7 +32,7 @@ terdapat 3 poin khusus.
 
 ## 4. Asal bahasa Indonesia
 
-Bahasa Indonesia berkembang dari bahasa-bahasa lain yang ada di Indonesia, contohnya bahasa Melayu.
+Bahasa Indonesia berkembang dari bahasa-bahasa daerah lain yang ada di Indonesia, contohnya bahasa Melayu.
 
 ## 5. Tahun 1928
 

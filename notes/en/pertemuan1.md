@@ -2,7 +2,7 @@
 title: "Meeting 1 Notes: Indonesian Language"
 description: "Notes from the first meeting of the Indonesian Language course: the General and Specific types, history, and using the language well."
 date: "2026-09-21"
-author: "Hafidz"
+author: "M Abdul Hafidz"
 series: "Indonesian Language"
 tags: ["indonesian-language", "class-notes", "meeting-1"]
 status: ""
