@@ -8,84 +8,80 @@ tags: ["bahasa-indonesia", "catatan-kuliah", "pertemuan-2"]
 status: ""
 ---
 
+# Catatan Pertemuan 2: Sejarah Bahasa Indonesia
 
-Pertemuan 2 - Bahasa Indonesia
-Sejarah bahasa indonesia
-Orang yang pertama kali mengajukan nama indonesia adalah James Ricahrdson Logan
-Indonesia dari gabungan pulau pulau
-Istilah indos dan nesos kata jr morgan
+Catatan ini dari penjelasan dosen pada pertemuan kedua.
 
+## 1. Asal nama "Indonesia"
+Orang yang pertama kali mengajukan nama "Indonesia" adalah James Richardson Logan.
+Nama "Indonesia" berasal dari gabungan pulau-pulau.
+Istilahnya berasal dari kata Indos dan Nesos, diajukan oleh J.R. Logan.
+## 2. Pengertian
 
-Pengertian
-Sejarah bahasa indonesia adalah perjalanna perkembangan bahasa indonesia dari masa awal hingag menjadi bahasa niasonal yang idugnakan secara resmi di indonesia, yang meliputi proses, peristiwa, para tokoh dan faktor faktor yang mengenagani perkembangan.
+Sejarah bahasa Indonesia adalah perjalanan perkembangan bahasa Indonesia dari masa awal hingga menjadi bahasa nasional yang digunakan secara resmi di Indonesia. Ini meliputi proses, peristiwa, para tokoh, dan faktor-faktor yang memengaruhi perkembangannya.
 
-Sumber (Keraf Guris)
+Sumber: Gorys Keraf
 
-Tujuan
-Mengetahui asal usul dari perkemabngan bahasa indonesia
-Memahami peran bahasa indoneisa dalam perjuangan bangsa
-Menimbulkan rasa cinta dan bangga terhadap bahasa indonesia.
-Menjadikan bahasa indonesia sebagai sarana pemersatuan bangsa dan alat komunikasi yang efektif.
+## 3. Tujuan Mempelajari Sejarah Bahasa Indonesia
+Mengetahui asal usul dari perkembangan bahasa Indonesia.
+Memahami peran bahasa Indonesia dalam perjuangan bangsa.
+Menimbulkan rasa cinta dan bangga terhadap bahasa Indonesia.
+Menjadikan bahasa Indonesia sebagai sarana pemersatu bangsa dan alat komunikasi yang efektif.
+## 4. Bahasa Indonesia sebagai Bahasa Internasional
 
-Raden Alit Prawatasari
+Bahasa Indonesia diakui sebagai bahasa internasional pada 20 November 2023.
 
-Bahasa Indonesia termasuk bahasa internasional pada 20 november 2023
+## 5. Ciri-Ciri Sejarah Bahasa Indonesia
+Berkaitan dengan waktu (kronologis).
+Menggambarkan proses perubahan dan perkembangan.
+Melibatkan tokoh, peristiwa, dan faktor sosial budaya, politik, serta teknologi.
+Bersifat faktual dan objektif.
+Terdapat kesinambungan antara masa lalu, masa kini, dan masa depan.
+## 6. Periode Perkembangan Bahasa Indonesia
+Masa Awal (sebelum abad ke-20) Bahasa Melayu kuno, Melayu klasik, dan pengaruh bahasa asing (Arab, Sanskerta, Portugis, Belanda).
+Masa Kolonial (abad ke-19 – awal abad ke-20) Munculnya bahasa Melayu sebagai bahasa pengantar di bidang pendidikan, agama, dan perdagangan.
+Masa Pergerakan Nasional (1900–1945) Bahasa Indonesia mulai digunakan dalam organisasi pergerakan dan media massa.
+Masa Kemerdekaan (1945–sekarang) Bahasa Indonesia ditetapkan sebagai bahasa negara dan bahasa resmi, lalu disempurnakan melalui Ejaan Yang Disempurnakan (EYD). Ini menjadi EYD edisi V.
+Era Kodifikasi Pengumpulan, pengaturan, dan standarisasi bahasa Indonesia sampai tahun 1972.
+Era Internasionalisasi dan Digital Bahasa Indonesia direncanakan menjadi bahasa internasional pada tahun 2009.
 
-Ciri-Ciri
-Berkaitan dengan waktu (kronologis)
-Mengggambarkan proses perubahan dan perkembangan
-Melibatkan tokoh, perisitiwa dan faktor sosial budaya, politik serta teknologi.
-Bersifat faktual dan objektif
-Terdapat kesinambungan antara masa lalu, masa kini dan masa depan.
+## Catatan tambahan terkait periode:
 
-Perkembangan / Periode
-Masa Awal (sebelum abad ke-20)
-Bahasa melayu kuno, melayu klasik, dan pengaruh bahasa asing (arab, sanskerta, portugis, belanda).
-Masa Kolonial (abad ke-19 - awal abad ke - 20)
-Munculnya bahasa melayu sebagai bahasa pengantar di bidang pendidikan, agama dan perdagangan.
-Masa Pergerakan Nasional (1900-1945)
-Bahasa indonesia mulai digunakna dalam organisasi pergerakan dan media massa.
-Masa kemerdekaan (1945 - sekarang)
-Bahasa indoensia ditetapkan sebagai bahasa negara dan bahasa resmi. Disempurnakan melalui ejaan yang disempurnakan (EYD),
-Ini menjadi EYD edisi V
+Ejaan yang dipakai sebelum EYD: Ejaan Charles van Ophuijsen.
+Kongres Pemuda I dan Kongres Pemuda II pernah diselenggarakan. Kongres Pemuda adalah pertemuan para pemuda dari berbagai organisasi daerah di Indonesia yang membahas persatuan bangsa, dan dari kongres kedua inilah lahir ikrar Sumpah Pemuda.
 
-Ejaan charles van ophuijsen
+Sumber: Chaer, Abdul. 2015. Linguistik Umum. Jakarta: Rineka Cipta. Dan Kemdikbud. 2017. Sejarah Bahasa Indonesia.
 
-Sumpah pemuda pertama kali diselenggarakan di solo
+## 7. Adaptasi, Adopsi, dan Penerjemahan
 
-Era Paska Kemederkaan
+Bahasa Indonesia berkembang lewat tiga cara ini: mengadaptasi, mengadopsi, dan menerjemahkan kata-kata dari bahasa lain.
 
-(Sumber: Chaer, Abdul 2015. Linguistik Umum. Jakarta: Rineka Cipta dan Kemdikbud  2017 Sejarah bahasa indonesia)
+## 8. Tokoh Penting
+Raja Balaputera Dewa – penggagas penggunaan bahasa Melayu sebagai bahasa pengantar.
+Muhammad Yamin – pelopor bahasa Indonesia sebagai bahasa nasional.
+Soewandi – perumus istilah dan tata bahasa (Ejaan Soewandi/Ejaan Republik, 1947).
+Chairil Anwar – mengangkat bahasa Indonesia ke ranah sastra modern.
+Raden Alit Prawatasari – pahlawan dari Cianjur.
 
-Adaptasi, Adopsi dan Penerjemahan
+Sumber: Dalman. 2018. Sejarah Bahasa Indonesia. Jakarta: Rajawali Pers.
 
-Toko Penting
-Raja Balaputera Dewa - penggagas penggunaan melayu sebagai bahasa pengantar
-Muhammad Yamin – pelopor bahasa indonesia sebagai baahsa nasional
-Soewto Mangunwiyoto - perumus isolah dan tata bahasa
-Chairil Anwar – Mengangkat bahasa indonesia ke ranah sastra modern.
+## 9. Hubungan Bahasa Indonesia dan Bahasa Melayu
 
-(Sumber: Dalman 2018. Sejarah bahasa indonesia, Jakarta: Rajawali Pers.)
+Bahasa Melayu dulunya adalah bahasa yang dipakai di Nusantara, dan bahasa Indonesia berakar dari bahasa Melayu.
 
+## 10. Rumus Unsur Pembentuk Bahasa Indonesia
 
+Bahasa Indonesia terbentuk dari:
 
-Bahasa indonesia adalah akar dari bahasa melayu.
+BI = BM + BD + BA
 
+BI: Bahasa Indonesia
+BM: Bahasa Melayu
+BD: Bahasa Daerah
+BA: Bahasa Asing
+## 11. Istilah Lain
+Etnis: suku bangsa.
 
-Era Kodefikasi Pengumpulan pengaturan bahasa indonesia.
-Dan standarisasi sampai 1972
+--- 
 
-EYD = Ejaan Yang Disempurnakan
-
-Era Internasionalisasi dan Digital
-
-Bahasa indonesia direcanakan menjadi bahasa internasional pada tahun 2009
-
-EYD edisi lima
-
-
-BI + BM + BD + BA = 
-
-Etnis itu suku bangsa
-
-Bahasa melayu dulunya adalah bahasa nusantara
+*Sumber: Hj. Ida Saidah, Dra., MH. pada pertemuan kedua.*
