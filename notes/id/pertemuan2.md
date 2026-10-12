@@ -1,7 +1,7 @@
 ---
 title: "Catatan Pertemuan 2: Bahasa Indonesia"
 description: "Catatan pertemuan kedua mata kuliah Bahasa Indonesia:Sejarah Bahasa Indonesia"
-date: "2026-09-21"
+date: "2026-09-28"
 author: "M Abdul Hafidz"
 series: "Bahasa Indonesia"
 tags: ["bahasa-indonesia", "catatan-kuliah", "pertemuan-2"]

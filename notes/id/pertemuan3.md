@@ -1,7 +1,7 @@
 ---
 title: "Pertemuan 3: Fonem, Morfem, Kata, Istilah, dan Diksi"
 description: "Catatan pertemuan ketiga mata kuliah Bahasa Indonesia: satuan linguistik, jenis kata, diksi, istilah, dan aturan penulisan di-."
-date: "2026-09-28"
+date: "2026-10-3"
 author: "M. Abdul Hafidz"
 series: "Bahasa Indonesia"
 tags: ["bahasa-indonesia", "catatan-kuliah", "pertemuan-3", "diksi", "morfologi"]
