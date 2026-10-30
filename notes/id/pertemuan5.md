@@ -5,7 +5,7 @@ date: "2026-10-12"
 author: "M. Abdul Hafidz"
 series: "Bahasa Indonesia"
 tags: ["bahasa-indonesia", "catatan-kuliah", "pertemuan-5", "kalimat", "kalimat-efektif"]
-status: "seedling"
+status: ""
 ---
 
 # Pertemuan 5: Kalimat dan Kalimat Efektif

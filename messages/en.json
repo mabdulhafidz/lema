@@ -4,5 +4,9 @@
   },
   "PostPage": {
     "backToAll": "← All notes"
+  },
+  "Theme": { 
+    "toDark": "Dark mode",
+     "toLight": "Light mode"
   }
 }

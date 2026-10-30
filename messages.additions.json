@@ -1,0 +1,30 @@
+{
+  "id": {
+    "HomePage": {
+      "latest": "Terbaru",
+      "previous": "Pertemuan sebelumnya",
+      "meeting": "Pertemuan"
+    },
+    "PostPage": {
+      "toc": "Daftar Isi",
+      "read": "{pct}% dibaca",
+      "minLeft": "± {count} mnt lagi",
+      "minRead": "{count} mnt baca",
+      "backToTop": "Ke atas"
+    }
+  },
+  "en": {
+    "HomePage": {
+      "latest": "Latest",
+      "previous": "Previous meetings",
+      "meeting": "Meeting"
+    },
+    "PostPage": {
+      "toc": "Contents",
+      "read": "{pct}% read",
+      "minLeft": "~{count} min left",
+      "minRead": "{count} min read",
+      "backToTop": "Back to top"
+    }
+  }
+}

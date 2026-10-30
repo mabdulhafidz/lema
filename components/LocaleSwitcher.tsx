@@ -5,32 +5,9 @@ import { useLocale } from 'next-intl';
 import { useRouter } from 'next/navigation';
 import { setLocale } from '@/lib/actions/locale';
 
-type FlagProps = { className?: string };
-
-function FlagID({ className }: FlagProps) {
-  return (
-    <svg viewBox="0 0 3 2" className={className} aria-hidden="true">
-      <rect width="3" height="3" fill="#E70011" />
-      <rect y="1" width="3" height="1" fill="#FFFFFF" />
-    </svg>
-  );
-}
-
-function FlagEN({ className }: FlagProps) {
-  return (
-    <svg viewBox="0 0 60 30" className={className} aria-hidden="true">
-      <rect width="60" height="60" fill="#012169" />
-      <path d="M0,0 L60,30 M60,0 L0,30" stroke="#FFFFFF" strokeWidth="6" />
-      <path d="M0,0 L60,30 M60,0 L0,30" stroke="#C8102E" strokeWidth="3" />
-      <path d="M30,0 V30 M0,15 H60" stroke="#FFFFFF" strokeWidth="10" />
-      <path d="M30,0 V30 M0,15 H60" stroke="#C8102E" strokeWidth="6" />
-    </svg>
-  );
-}
-
 const locales = [
-  { code: 'id', label: 'Bahasa Indonesia', Flag: FlagID },
-  { code: 'en', label: 'English', Flag: FlagEN },
+  { code: 'id', short: 'ID', label: 'Bahasa Indonesia' },
+  { code: 'en', short: 'EN', label: 'English' },
 ] as const;
 
 export default function LocaleSwitcher() {
@@ -44,14 +21,12 @@ export default function LocaleSwitcher() {
 
   useEffect(() => {
     if (!open) return;
-
     const onClick = (e: MouseEvent) => {
       if (!ref.current?.contains(e.target as Node)) setOpen(false);
     };
     const onKey = (e: KeyboardEvent) => {
       if (e.key === 'Escape') setOpen(false);
     };
-
     document.addEventListener('mousedown', onClick);
     document.addEventListener('keydown', onKey);
     return () => {
@@ -63,7 +38,6 @@ export default function LocaleSwitcher() {
   function select(code: string) {
     setOpen(false);
     if (code === locale) return;
-
     startTransition(async () => {
       await setLocale(code);
       router.refresh();
@@ -71,47 +45,53 @@ export default function LocaleSwitcher() {
   }
 
   return (
-    <div ref={ref} className="relative inline-block">
+    <div ref={ref} className="relative font-mono text-sm">
       <button
         type="button"
         onClick={() => setOpen((o) => !o)}
         disabled={pending}
         aria-haspopup="listbox"
         aria-expanded={open}
-        aria-label={`Language: ${current.label}`}
-        className="flex items-center gap-1.5 rounded p-1 hover:bg-gray-100 disabled:opacity-50 dark:hover:bg-gray-800"
+        aria-label={`Bahasa: ${current.label}`}
+        className="flex min-h-9 items-center gap-1.5 rounded-full px-3 text-gray-500 transition-colors hover:bg-gray-100 hover:text-black disabled:opacity-50 dark:text-gray-400 dark:hover:bg-gray-900 dark:hover:text-white"
       >
-        <current.Flag className="h-4 w-6 rounded-sm" />
-        <svg
-          viewBox="0 0 20 20"
-          className={`h-4 w-4 text-gray-500 transition-transform ${open ? 'rotate-180' : ''}`}
-          fill="currentColor"
-          aria-hidden="true"
-        >
-          <path d="M5.5 7.5 10 12l4.5-4.5-1.4-1.4L10 9.2 6.9 6.1z" />
-        </svg>
+        <span className={pending ? 'animate-pulse' : ''}>{current.short}</span>
+        <span className={`text-[10px] transition-transform ${open ? 'rotate-180' : ''}`} aria-hidden>
+          ▾
+        </span>
       </button>
 
       {open && (
         <ul
           role="listbox"
-          className="absolute left-0 z-10 mt-1 flex flex-col bg-white dark:bg-black"
+          className="absolute right-0 z-50 mt-2 flex w-52 flex-col gap-0.5 rounded-lg border border-gray-200 bg-white p-1.5 shadow-lg dark:border-gray-800 dark:bg-black"
         >
-          {locales.map(({ code, label, Flag }) => (
-            <li key={code} role="option" aria-selected={code === locale}>
-              <button
-                type="button"
-                onClick={() => select(code)}
-                title={label}
-                aria-label={label}
-                className={`flex w-full items-center rounded p-1 hover:bg-gray-100 dark:hover:bg-gray-800 ${
-                  code === locale ? 'opacity-50' : ''
-                }`}
-              >
-                <Flag className="h-4 w-6 rounded-sm" />
-              </button>
-            </li>
-          ))}
+          {locales.map(({ code, short, label }) => {
+            const active = code === locale;
+            return (
+              <li key={code} role="option" aria-selected={active}>
+                <button
+                  type="button"
+                  onClick={() => select(code)}
+                  className={`flex min-h-10 w-full items-center gap-3 rounded-md px-2.5 text-left text-[13px] transition-colors ${
+                    active
+                      ? 'bg-accent/10 font-bold text-black dark:text-white'
+                      : 'text-gray-600 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-900'
+                  }`}
+                >
+                  <span
+                    className={`flex h-5 w-7 flex-none items-center justify-center rounded text-[10px] font-bold ${
+                      active ? 'bg-accent text-white' : 'bg-gray-100 text-gray-500 dark:bg-gray-800'
+                    }`}
+                  >
+                    {short}
+                  </span>
+                  <span className="flex-1">{label}</span>
+                  {active && <span className="text-accent" aria-hidden>✓</span>}
+                </button>
+              </li>
+            );
+          })}
         </ul>
       )}
     </div>

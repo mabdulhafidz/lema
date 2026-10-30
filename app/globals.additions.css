@@ -1,0 +1,12 @@
+/* Add to app/globals.css (Tailwind v4). Replace any existing --font-sans / --font-mono Geist lines in @theme. */
+
+@theme inline {
+  --font-mono: var(--font-jetbrains), ui-monospace, monospace;
+  --font-sans: var(--font-plex), system-ui, sans-serif;
+  --font-serif: var(--font-newsreader), Georgia, serif;
+  --color-accent: oklch(0.55 0.2 27);
+}
+
+html {
+  scroll-behavior: smooth;
+}

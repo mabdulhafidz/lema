@@ -3,6 +3,15 @@
     "title": "Catatan Kuliah"
   },
   "PostPage": {
-    "backToAll": "← Semua catatan"
+    "backToAll": "← Semua catatan",
+    "toc": "Daftar Isi",
+    "read": "{pct}% dibaca",
+    "minLeft": "± {count} mnt lagi",
+    "minRead": "{count} mnt baca",
+    "backToTop": "Ke atas"
+  },
+  "Theme": { 
+    "toDark": "Mode gelap",
+     "toLight": "Mode terang"
   }
 }
