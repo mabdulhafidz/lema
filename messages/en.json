@@ -3,7 +3,12 @@
     "title": "Class Notes"
   },
   "PostPage": {
-    "backToAll": "← All notes"
+    "backToAll": "← All notes",
+    "toc": "Contents",
+    "read": "{pct}% read",
+    "minLeft": "~{count} min left",
+    "minRead": "{count} min read",
+    "backToTop": "Back to top"
   },
   "Theme": { 
     "toDark": "Dark mode",
