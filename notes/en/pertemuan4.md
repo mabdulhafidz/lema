@@ -1,6 +1,6 @@
 ---
-title: "Lecture 4: Functions, Status, and Registers of Language"
-description: "Notes from the fourth lecture of the Indonesian Language course: functions of language, the status of the Indonesian language, the academic register, and assignments: a lecture summary and a seminar opening script."
+title: "Meeting 4: Functions, Status, and Registers of Language"
+description: "Notes from the fourth meeting of the Indonesian Language course: functions of language, the status of the Indonesian language, the academic register, and assignments: a meeting summary and a seminar opening script."
 date: "2026-10-10"
 author: "M. Abdul Hafidz"
 series: "Indonesian Language"
@@ -8,7 +8,7 @@ tags: ["bahasa-indonesia", "catatan-kuliah", "pertemuan-4", "ragam-bahasa", "kar
 status: "seedling"
 ---
 
-# Lecture 4: Functions, Status, and Registers of Language
+# Meeting 4: Functions, Status, and Registers of Language
 
 These notes are taken from the lecturer's explanation in the fourth lecture.
 

@@ -1,6 +1,6 @@
 ---
-title: "Lecture 2 Notes: Indonesian Language"
-description: "Notes from the second lecture of the Indonesian Language course: History of the Indonesian Language"
+title: "Meeting 2 Notes: Indonesian Language"
+description: "Notes from the second meeting of the Indonesian Language course: History of the Indonesian Language"
 date: "2026-09-28"
 author: "M Abdul Hafidz"
 series: "Indonesian Language"
@@ -8,7 +8,7 @@ tags: ["bahasa-indonesia", "catatan-kuliah", "pertemuan-2"]
 status: ""
 ---
 
-# Lecture 2 Notes: History of the Indonesian Language
+# Meeting 2 Notes: History of the Indonesian Language
 
 These notes are taken from the lecturer's explanation in the second lecture.
 

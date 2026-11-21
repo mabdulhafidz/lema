@@ -1,16 +1,16 @@
 ---
-title: "Session 7: Spelling and Punctuation"
-description: "Notes from the seventh session of the Indonesian Language course: definitions of spelling and punctuation, and the history of Indonesian spelling systems from Van Ophuijsen to EYD and EBI."
+title: "Meeting 7: Spelling and Punctuation"
+description: "Notes from the seventh meeting of the Indonesian Language course: definitions of spelling and punctuation, and the history of Indonesian spelling systems from Van Ophuijsen to EYD and EBI."
 date: "2026-10-26"
 author: "M. Abdul Hafidz"
 series: "Indonesian Language"
-tags: ["indonesian-language", "lecture-notes", "session-7", "spelling", "eyd", "punctuation"]
+tags: ["indonesian-language", "lecture-notes", "meeting-7", "spelling", "eyd", "punctuation"]
 status: "seedling"
 ---
 
-# Session 7: Spelling and Punctuation
+# Meeting 7: Spelling and Punctuation
 
-These notes are from the lecturer's explanation in the seventh session. Matters concerning EYD fall under the Minister of Education.
+These notes are from the lecturer's explanation in the seventh lecturemeeting. Matters concerning EYD fall under the Minister of Education.
 
 ## 1. Opening Questions
 

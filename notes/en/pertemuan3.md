@@ -1,6 +1,6 @@
 ---
-title: "Lecture 3: Phonemes, Morphemes, Words, Terms, and Diction"
-description: "Notes from the third lecture of the Indonesian Language course: linguistic units, word classes, diction, terminology, and the rules for writing di-."
+title: "Meeting 3: Phonemes, Morphemes, Words, Terms, and Diction"
+description: "Notes from the third meeting of the Indonesian Language course: linguistic units, word classes, diction, terminology, and the rules for writing di-."
 date: "2026-10-3"
 author: "M. Abdul Hafidz"
 series: "Indonesian Language"
@@ -8,7 +8,7 @@ tags: ["bahasa-indonesia", "catatan-kuliah", "pertemuan-3", "diksi", "morfologi"
 status: "seedling"
 ---
 
-# Lecture 3: Phonemes, Morphemes, Words, Terms, and Diction
+# Meeting 3: Phonemes, Morphemes, Words, Terms, and Diction
 
 These notes are taken from the lecturer's explanation in the third lecture.
 

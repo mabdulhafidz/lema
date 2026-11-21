@@ -1,6 +1,6 @@
 ---
-title: "Lecture 6: Paragraphs"
-description: "Notes from the sixth lecture of the Indonesian Language course: definition of a paragraph, cohesion and coherence, types of paragraphs, ways to begin a paragraph, and Assignment 6: a discourse on the benefits of computers."
+title: "Meeting 6: Paragraphs"
+description: "Notes from the sixth meeting of the Indonesian Language course: definition of a paragraph, cohesion and coherence, types of paragraphs, ways to begin a paragraph, and Assignment 6: a discourse on the benefits of computers."
 date: "2026-10-19"
 author: "M. Abdul Hafidz"
 series: "Indonesian Language"
@@ -8,7 +8,7 @@ tags: ["bahasa-indonesia", "catatan-kuliah", "pertemuan-6", "paragraf", "tugas"]
 status: ""
 ---
 
-# Lecture 6: Paragraphs
+# Meeting 6: Paragraphs
 
 These notes are taken from the lecturer's explanation in the sixth lecture.
 

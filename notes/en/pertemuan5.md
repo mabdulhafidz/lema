@@ -1,6 +1,6 @@
 ---
-title: "Lecture 5: Sentences and Effective Sentences"
-description: "Notes from the fifth lecture of the Indonesian Language course: definition, types, patterns, and parts of sentences; words, phrases, and clauses; and effective sentences."
+title: "Meeting 5: Sentences and Effective Sentences"
+description: "Notes from the fifth meeting of the Indonesian Language course: definition, types, patterns, and parts of sentences; words, phrases, and clauses; and effective sentences."
 date: "2026-10-12"
 author: "M. Abdul Hafidz"
 series: "Indonesian Language"
@@ -8,7 +8,7 @@ tags: ["bahasa-indonesia", "catatan-kuliah", "pertemuan-5", "kalimat", "kalimat-
 status: ""
 ---
 
-# Lecture 5: Sentences and Effective Sentences
+# Meeting 5: Sentences and Effective Sentences
 
 These notes are taken from the lecturer's explanation in the fifth lecture.
 
