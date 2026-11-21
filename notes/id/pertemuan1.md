@@ -1,5 +1,5 @@
 ---
-title: "Catatan Pertemuan 1: Bahasa Indonesia"
+title: "Pertemuan 1: Bahasa Indonesia"
 description: "Catatan pertemuan pertama mata kuliah Bahasa Indonesia: tipe Umum dan Khusus, sejarah, dan berbahasa yang baik."
 date: "2026-09-21"
 author: "M Abdul Hafidz"

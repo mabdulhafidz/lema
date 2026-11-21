@@ -1,5 +1,5 @@
 ---
-title: "Catatan Pertemuan 2: Bahasa Indonesia"
+title: "Pertemuan 2: Bahasa Indonesia"
 description: "Catatan pertemuan kedua mata kuliah Bahasa Indonesia:Sejarah Bahasa Indonesia"
 date: "2026-09-28"
 author: "M Abdul Hafidz"
